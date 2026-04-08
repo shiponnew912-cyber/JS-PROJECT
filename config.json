@@ -2,11 +2,11 @@
   "language": "en",
   "DeveloperMode": false,
   "autoCreateDB": true,
-  "BOTNAME": "SaGor",
-  "PREFIX": ".",
+  "BOTNAME": "RAKIB-bot",
+  "PREFIX": "+",
 
-  "ADMINBOT": ["61581197276223"],
-  "NDH": ["61581197276223"],
+  "ADMINBOT": ["61579624827164"],
+  "NDH": ["61579624827164"],
 
   "adminOnly": false,
   "ndhOnly": false,
