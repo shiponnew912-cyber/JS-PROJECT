@@ -1,0 +1,144 @@
+{
+  "language": "en",
+  "DeveloperMode": false,
+  "autoCreateDB": true,
+  "BOTNAME": "SaGor",
+  "PREFIX": ".",
+
+  "ADMINBOT": ["61581197276223"],
+  "NDH": ["61581197276223"],
+
+  "adminOnly": false,
+  "ndhOnly": false,
+  "adminPaOnly": false,
+
+  "allowInbox": true,
+  "notiGroup": true,
+  "NOTIFICATION": true,
+
+  "autoClean": true,
+  "commandDisabled": ["sim.js"],
+  "eventDisabled": ["join.js"],
+
+  "DATABASE": {
+    "sqlite": {
+      "storage": "data.sqlite"
+    }
+  },
+
+  "APPSTATEPATH": "COOKIES.txt",
+
+  "EMAIL": "",
+  "PASSWORD": "",
+  "OTPKEY": "",
+
+  "FCAOption": {
+    "forceLogin": false,
+    "listenEvents": true,
+    "pauseLog": true,
+    "logLevel": "silent",
+    "selfListen": false,
+    "autoMarkRead": false,
+    "autoMarkDelivery": false,
+    "online": false,
+    "emitReady": true,
+    "autoReconnect": true,
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+
+  "autosend": {
+    "enabled": false,
+    "checkIntervalMinutes": 60,
+    "allowInbox": false,
+    "allowGroup": true,
+    "maxMessagesPerDay": 24
+  },
+
+  "version": "1.2.14",
+
+  "log": {
+    "enable": true
+  },
+
+  "menu": {
+    "autoUnsend": true,
+    "delayUnsend": 55
+  },
+
+  "help": {
+    "autoUnsend": true,
+    "delayUnsend": 120
+  },
+
+  "help2": {
+    "autoUnsend": true,
+    "delayUnsend": 300
+  },
+
+  "help3": {
+    "autoUnsend": true,
+    "delayUnsend": 300
+  },
+
+  "rankup": {
+    "autoUnsend": true,
+    "unsendMessageAfter": 10
+  },
+
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 1000
+  },
+
+  "work": {
+    "cooldownTime": 1200000
+  },
+
+  "job": {
+    "cooldownTime": 5000
+  },
+
+  "fish": {
+    "cooldownTime": 1000000
+  },
+
+  "anime": {
+    "cooldownTime": 1200000
+  },
+
+  "cave": {
+    "cooldownTime": 2000000
+  },
+
+  "cavevip": {
+    "cooldownTime": 1200000
+  },
+
+  "lixi": {
+    "cooldownTime": 1100000
+  },
+
+  "lamviec": {
+    "cooldownTime": 1200000
+  },
+
+  "xidach": {
+    "maxPlayers": 5,
+    "normalWinBonus": 1,
+    "superWinBonus": 2,
+    "epicWinBonus": 4
+  },
+
+  "loto": {
+    "maxPlayers": 10,
+    "getDelay": 8
+  },
+
+  "god": {
+    "enable": true
+  },
+
+  "caesar": {
+    "caeserPassword": "266303"
+  }
+}

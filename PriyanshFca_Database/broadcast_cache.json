@@ -1,0 +1,10 @@
+{
+  "sent_broadcasts": [],
+  "last_check": "2026-04-08T13:50:04.766Z",
+  "statistics": {
+    "total_broadcasts_sent": 0,
+    "total_groups_reached": 0,
+    "last_broadcast_time": null
+  },
+  "serverCooldownUntil": null
+}
